@@ -4,7 +4,7 @@ A simple Node.js web application containerized with Docker — built as a DevOps
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 devops-node-docker-app/
 ├── app/
@@ -16,7 +16,7 @@ devops-node-docker-app/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Node.js (Express)
 - Docker
