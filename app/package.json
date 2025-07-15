@@ -1,0 +1,15 @@
+{
+  "name": "devops-node-app",
+  "version": "1.0.0",
+  "description": "A simple Express app for DevOps CI/CD demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Shailaja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
