@@ -44,7 +44,7 @@ csharp
 Hello from DevOps Project 🚀
 
 Author
-Shailaja S P
+Shailaja 
 GitHub: @Shailaja-poojari
 CSE | DevOps | Cloud | Docker | Git | Projects
 
